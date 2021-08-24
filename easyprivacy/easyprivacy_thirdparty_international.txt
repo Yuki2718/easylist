@@ -598,6 +598,7 @@
 ||tracker.520call.me^
 ||trk.fensi.plus^
 ||userdive.com^$third-party
+||uz-analysis.akamaized.net^
 ||webbc.fivecdm.com^
 ||webtracker.jp^$third-party
 ||x9.shinobi.jp^
